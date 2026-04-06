@@ -1,4 +1,4 @@
-```gantt
+```mermaid
     title Sprint Roadmap Q2 2023
     dateFormat  YYYY-MM-DD
     axisFormat %b %d
