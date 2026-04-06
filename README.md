@@ -1,3 +1,4 @@
+```mermaid
 gantt
     title Sprint Roadmap Q2 2023
     dateFormat YYYY-MM-DD
@@ -44,3 +45,4 @@ gantt
 
     section Milestones
     Q2 Start :milestone, m1, 2023-▍
+```
